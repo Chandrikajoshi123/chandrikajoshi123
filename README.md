@@ -36,3 +36,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikajoshi123&theme=radical" alt="GitHub Streak" />
 </p>
+
+![Profile Views](https://www.holopin.io/userbadge/cltb4s61z147320fkxq2dai15k)
