@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chandrika</h1>
+<h1 align="center">Hey 👋, I'm chandrika</h1>
 <h3 align="center">A master's student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikajoshi123&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikajoshi123" /> </p>
