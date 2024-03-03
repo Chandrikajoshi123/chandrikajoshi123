@@ -8,11 +8,11 @@
 - 📫 How to reach me **jchandrika67@gmail.com**
 
 - ⚡ Fun fact **I like learning new languages**
-- 
-
-<img src="   ![anime-code-insect-wallpaper-preview](https://github.com/Chandrikajoshi123/chandrikajoshi123/assets/100508364/f69c5a14-55d6-4850-a269-6b846ed7ab9d) "   width="200" height="150" alt="Description">
+ 
 
 
+
+![girlC++book](https://github.com/Chandrikajoshi123/chandrikajoshi123/assets/100508364/4af52ee6-33e5-4f8f-8d47-af2035298fe7)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,5 +27,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrikajoshi123&show_icons=true&locale=en&layout=compact" alt="chandrikajoshi123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrikajoshi123&show_icons=true&locale=en" alt="chandrikajoshi123" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikajoshi123&" alt="chandrikajoshi123" /></p>
+
+
+
+
