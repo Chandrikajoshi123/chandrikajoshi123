@@ -9,6 +9,11 @@
 
 - ⚡ Fun fact **I like learning new languages**
 
+
+<img src="![anime-code-insect-wallpaper-preview](https://github.com/Chandrikajoshi123/chandrikajoshi123/assets/100508364/427d8775-6a7f-4e98-a62c-9954cd038980)" width="350" height="300" >
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chandrika joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika joshi" height="30" width="40" /></a>
