@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandrikajoshi123/README.md/main/-23.jpg" alt="Banner Image" width="100%">
+  <img src="https://github.com/Chandrikajoshi123/chandrikajoshi123/blob/d2581feb5510435d41b2b97b1a223ddf97a3ddb1/%20-23.jpg" alt="Banner Image" style="width:100%; height:auto;">
 </p>
 
 # Chandrika Joshi  
