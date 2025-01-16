@@ -13,16 +13,15 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **🧿🌸 Data Scientist | Freelancer | Machine Learning Enthusiast | Blogger 🌸🧿**
 
 
----
+
 
 ## About Me 👩‍💻  
-🎓 Pursuing my Master's in Data Science and Statistics from **Graphic Era Hill University, Dehradun**.  
+🎓 Pursuing my Master's in Data Science and Statistics.  
 🌟 Passionate about Data Science, AI, and solving real-world problems.  
-🎨 I also enjoy painting and watching K-dramas/C-dramas in my free time.  
 
-💡 **Currently working on:**  
-- Building projects like **Alzheimer's Disease Prediction** using **Streamlit**.  
-- Analyzing Porsche sports cars using **RStudio** for market insights.  
+
+💡 **Currently working As:**  
+ - A **Freelancer** on platforms like **Upwork** and **Fiverr**, delivering high-quality data analysis, visualization, and AI-driven solutions.  
 
 💼 **Experience:**  
 - **Google Developer Student Club Member**  
@@ -39,12 +38,7 @@ English, Spanish, Hindi, and a few local Indian languages.
 ---
 
 ## 🛠️ Skills and Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00C49F?style=flat-square)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00C49F?style=flat-square)  
 
 ---
 
