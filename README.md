@@ -49,15 +49,24 @@ English, Spanish, Hindi, and a few local Indian languages.
   <img src="https://komarev.com/ghpvc/?username=Chandrikajoshi123&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
-<!-- GitHub Streak -->
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Chandrikajoshi123&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrikajoshi123&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrikajoshi123&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandrikajoshi123&theme=radical" alt="GitHub Trophies" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandrikajoshi123&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 
 
