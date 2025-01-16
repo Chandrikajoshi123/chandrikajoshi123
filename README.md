@@ -1,40 +1,77 @@
-<h1 align="center">Hey there! 👋🏻 I'm Chandrika Joshi</h1>
-<h3 align="center">A passionate master's student exploring the world of technology</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikajoshi123&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikajoshi123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrikajoshi123" alt="chandrikajoshi123" /></a> </p>
-
-- 📫 How to reach me: **jchandrika67@gmail.com**
-
-- ⚡ Fun fact: I enjoy learning new languages and creating animations
-
-![Coding Animation](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandrika-joshi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-joshi" height="30" width="40" /></a>
-<a href="https://instagram.com/cj.1854_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cj.1854_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrikajoshi123&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="exam![ -23](https://github.com/user-attachments/assets/3560e67c-bbd8-4d8b-aa29-af53d79883b7)" alt="Banner Image" width="100%">
 </p>
 
+# Chandrika Joshi  
+**Namaste 🙏 | Data Scientist | Machine Learning Enthusiast | Aspiring Data Science Professional in Dubai**  
+
+---
+
+## About Me 👩‍💻  
+🎓 Pursuing my Master's in Data Science and Statistics from **Graphic Era Hill University, Dehradun**.  
+🌟 Passionate about Data Science, AI, and solving real-world problems.  
+🎨 I also enjoy painting and watching K-dramas/C-dramas in my free time.  
+
+💡 **Currently working on:**  
+- Building projects like **Alzheimer's Disease Prediction** using **Streamlit**.  
+- Analyzing Porsche sports cars using **RStudio** for market insights.  
+
+💼 **Experience:**  
+- **Google Developer Student Club Member**  
+- Data Science Internships at **Visa** and **Porsche**.  
+- Created a **Copilot** integrating Gemini, LLaMA, and GPT models.  
+- **SMNH Academy:** Completed 3 projects as a Power BI intern.  
+- **Coding Jr:** Hands-on experience in LLM and deployment.  
+
+🌏 **Languages:**  
+English, Spanish, Hindi, and a few local Indian languages.  
+
+🌐 Aspiring to settle in **Dubai** and build a meaningful career as a Data Scientist.
+
+---
+
+## 🛠️ Skills and Tools  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00C49F?style=flat-square)  
+
+---
+
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrikajoshi123&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vibe-link&show_icons=true&theme=dark" alt="Chandrika's GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibe-link&theme=dark" alt="GitHub Streak" width="45%">
+</p>  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikajoshi123&theme=radical" alt="GitHub Streak" />
-</p>
+---
 
+## 🔥 Featured Projects  
+| Project Name        | Description                                                | Technologies              | Repo Link |  
+|---------------------|------------------------------------------------------------|---------------------------|-----------|  
+| **Anizen**          | Anime app for hackathon using Part Rock & AWS.             | React, AWS, Python        | [View Repo](#) |  
+| **Alzheimer’s App** | Prediction model with Streamlit.                           | Python, Streamlit         | [View Repo](#) |  
+| **Porsche Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
 
+---
+
+## 💬 Random Dev Quote  
+> "Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function." – John Carmack  
+
+---
+
+## 🫂 Support Me  
+If you like my work, consider buying me a coffee:  
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/your-link)  
+
+---
+
+### 🌟 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibe-link)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://your-portfolio-link.com)  
+
+<p align="center">✨ Thanks for stopping by! Keep building and learning. 🚀</p>
