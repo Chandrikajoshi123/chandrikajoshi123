@@ -43,10 +43,23 @@ English, Spanish, Hindi, and a few local Indian languages.
 ---
 
 ## 📈 GitHub Stats  
+
+<!-- GitHub Profile Views -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibe-link&show_icons=true&theme=dark" alt="Chandrika's GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibe-link&theme=dark" alt="GitHub Streak" width="45%">
-</p>  
+  <img src="https://komarev.com/ghpvc/?username=Chandrikajoshi123&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrikajoshi123&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandrikajoshi123&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+
 
 ---
 
