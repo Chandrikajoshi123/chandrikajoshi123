@@ -31,7 +31,9 @@
 - **Coding Jr:** Hands-on experience in LLM and deployment.  
 
 🌏 **Languages:**  
-English, Spanish, Hindi, and a few local Indian languages.  
+- 🇺🇲 English<br>
+-  🇪🇸 Spanish<br>
+-  🇮🇳Hindi   
 
 🌐 Aspiring to settle in **Dubai** and build a meaningful career as a Data Scientist.
 
