@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="exam![ -23](https://github.com/user-attachments/assets/3560e67c-bbd8-4d8b-aa29-af53d79883b7)" alt="Banner Image" width="100%">
+  <img src="https://raw.githubusercontent.com/chandrikajoshi123/README.md/main/-23.jpg" alt="Banner Image" width="100%">
 </p>
 
 # Chandrika Joshi  
