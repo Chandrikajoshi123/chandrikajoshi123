@@ -4,11 +4,10 @@
 </p>
 
 
-<p align="center">
-<span  style="font-size:100px;">🅲🅷🅰🅽🅳🆁🅸🅺🅰 🅹🅾🆂🅷🅸 </span>
-</p>
+#  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **🅲🅷🅰🅽🅳🆁🅸🅺🅰 🅹🅾🆂🅷🅸**
 
-  **Namaste 🙏 | Data Scientist | Machine Learning Enthusiast | Aspiring Data Science Professional in Dubai**  
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Namaste 🙏 I'm Chandrika Joshi**
 
 ---
 
