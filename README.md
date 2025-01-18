@@ -90,7 +90,7 @@
 
 ## 🫂 Support Me  
 If you like my work, consider buying me a coffee:  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](buymeacoffee.com/chandrikajoshi123)
+# [![𝙱𝚞𝚢 𝚖𝚎 𝚊 𝙲𝚘𝚏𝚏𝚎𝚎](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/chandrikajoshi123)
  
 
 ---
