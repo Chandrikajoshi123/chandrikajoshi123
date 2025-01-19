@@ -35,7 +35,6 @@
 -  🇪🇸 Spanish<br>
 -  🇮🇳Hindi   
 
-🌐 Aspiring to settle in **Dubai** and build a meaningful career as a Data Scientist.
 
 ---
 
