@@ -25,9 +25,9 @@
 
 💼 **Experience:**  
 - **Google Developer Student Club Member**  
-- Data Science Internships at **Visa** and **Porsche**.  
+ 
 - Created a **Copilot** integrating Gemini, LLaMA, and GPT models.  
-- **SMNH Academy:** Completed 3 projects as a Power BI intern.  
+- **SMNG Academy:** Completed 3 projects as a Power BI intern.  
 - **Coding Jr:** Hands-on experience in LLM and deployment.  
 
 🌏 **Languages:**  
