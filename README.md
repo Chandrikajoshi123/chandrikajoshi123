@@ -39,7 +39,23 @@
 ---
 
 ## 🛠️ Skills and Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00C49F?style=flat-square)  
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=r" alt="R" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Microsoft_Office_Word_%282013%E2%80%932019%29.svg" alt="MS Word" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canva_Logo.png" alt="Canva" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50" height="50"/>
+</p>
+
+
 
 ---
 
