@@ -93,6 +93,14 @@ If you like my work, consider buying me a coffee:
  
 
 ---
+## CVs
+You can find my CV below:
+
+| English CV |  |
+|:---:|:---:|
+|[<img align="center" src="images/cv.png"  width="100" alt="English CV"/>]()| [<img align="center" src="images/cv.png"  width="100" alt="Greek CV"/>]()|
+
+---
 
 ### 🌟 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrika-j-0b1a98238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibe-link)  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://your-portfolio-link.com)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cj.18_m/)
