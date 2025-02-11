@@ -41,7 +41,7 @@
 ## 🛠️ Skills and Tools  
 
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
@@ -49,12 +49,11 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=r" alt="R" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Microsoft_Office_Word_%282013%E2%80%932019%29.svg" alt="MS Word" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canva_Logo.png" alt="Canva" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50" height="50"/>
+  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
 
 
 ---
@@ -121,6 +120,9 @@ You can find my CV below:
 ### 🌟 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/chandrika-j-0b1a98238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibe-link)  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://your-portfolio-link.com)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cj.18_m/) [![DiscordLogo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/chandrika0292)
 ---
+
+
+
 
 
 
