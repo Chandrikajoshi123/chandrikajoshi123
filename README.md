@@ -140,9 +140,7 @@ You can find my CV below:
 
 
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Chandrikajoshi123/chandrikajoshi123/output/snake.svg" alt="Snake animation" style="width: 100%;" />
-</div>
+
 
 
 
