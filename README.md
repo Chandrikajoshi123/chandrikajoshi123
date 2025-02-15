@@ -135,6 +135,8 @@ You can find my CV below:
 
 
 
+---
+![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
 
 
 
