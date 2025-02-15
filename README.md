@@ -57,6 +57,11 @@
 
 
 ---
+## 🏆 Achievements   
+📜 **PwC Switzerland – Power BI Job Simulation** <br>
+📜 **BCG - Data Science Job Simulation**
+
+---
 
 ## 📈 GitHub Stats  
 
