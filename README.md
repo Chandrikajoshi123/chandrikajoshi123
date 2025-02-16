@@ -130,15 +130,14 @@ You can find my CV below:
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/archielicious/archielicious/output/snake.svg" alt="Snake animation" style="width: 100%;" />
+<img src="https://raw.githubusercontent.com/archielicious/archielicious/output/snake.svg"
+  alt="Snake animation" style="width: 100%;" />
 </div>
 
 
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
-
-
 
 
 
