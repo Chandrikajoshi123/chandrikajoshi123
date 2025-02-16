@@ -140,9 +140,6 @@ You can find my CV below:
 ![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
 
 ---
-<div align="center">
-<img src="https://raw.githubusercontent.com/Chandrikajoshi123/chandrikajoshi123/output/snake.svg" alt="Snake animation" style="width: 100%;" />
-</div>
 
 
 <p align="center">✨ Thanks for stopping by! Keep building and learning. 🚀</p>
