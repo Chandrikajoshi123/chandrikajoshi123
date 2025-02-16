@@ -130,7 +130,8 @@ You can find my CV below:
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/archielicious/archielicious/output/snake.svg" alt="Snake animation" style="width: 100%;" />
+<img src="https://raw.githubusercontent.com/archielicious/archielicious/output/snake.svg"
+  alt="Snake animation" style="width: 100%;" />
 </div>
 
 
@@ -139,10 +140,6 @@ You can find my CV below:
 ![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
 
 
-<div align="center">
-<img src="https://github.com/Chandrikajoshi123/chandrikajoshi123/blob/e837ba1703363a50109c064fa0e6f62f4973b1f2/new.yml
-" alt="Snake animation" style="width: 100%;" />
-</div>
 
 
 
