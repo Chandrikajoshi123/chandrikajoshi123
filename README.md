@@ -134,12 +134,6 @@ If you like my work, consider buying me a coffee:
  
 
 
-## CVs
-You can find my CV below:
-
-| English CV |  |
-|:---:|:---:|
-|[<img align="center" src="images/cv.png"  width="100" alt="English CV"/>]()| [<img align="center" src="images/cv.png"  width="100" alt="Greek CV"/>]()|
 
 
 ![Chandrika's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandrikajoshi123&theme=radical)
@@ -172,21 +166,6 @@ You can find my CV below:
 
 
 ![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
-
-
-### 🔹 **Power BI Projects**
-- 📊 [Project 1: Sales Dashboard](https://github.com/Chandrikajoshi123/Sales-Dashboard)
-- 📈 [Project 2: Financial Analysis](https://github.com/Chandrikajoshi123/Financial-Analysis)
-
-### 🤖 **Machine Learning & AI**
-- 🏎 [Porsche Data Analysis](https://github.com/Chandrikajoshi123/Porsche-Data)
-- 🤖 [Mercedes-Benz Price Prediction](https://github.com/Chandrikajoshi123/Mercedes-Benz-Prediction)
-- 🧠 [Alzheimer’s Disease Detection](https://github.com/Chandrikajoshi123/Alzheimers-Detection)
-
-### 🔥 **Generative AI & LLM**
-- 🤖 [Custom AI Copilot](https://github.com/Chandrikajoshi123/Custom-Copilot)
-- 📚 [Fine-tuning LLaMA & GPT](https://github.com/Chandrikajoshi123/Fine-Tune-LLM)
-
 
 
 
