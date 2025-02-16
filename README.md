@@ -106,9 +106,12 @@
 ###  **Power BI Projects**
 | Project Name        | Description                                                | Technologies              | Repo Link |  
 |---------------------|------------------------------------------------------------|---------------------------|-----------|  
-| **Anizen**          | Anime app for hackathon using Part Rock & AWS.             | React, AWS, Python        | [View Repo](#) |  
-| **Alzheimer’s App** | Prediction model with Streamlit.                           | Python, Streamlit         | [View Repo](#) |  
-| **Porsche Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
+| **Sales Data Analysis**          | Data Modeling & Transformation and DAX.             | SQL,Power BI, Excel        | [View Repo](#) |  
+| **Global Terrorism Analysis** | Analyzing terrorist incident world wide.                           | SQL,Power BI, Excel        | [View Repo](#) |  
+| **Titanic Ship Analysis**| Analysis on Titanic ship data.              | SQL,Power BI, Excel   | [View Repo](#) |  
+| **Diversity and Inclusion Analysis**          | Data Modeling .             | SQL,Power BI, Excel        | [View Repo](#) | 
+| **Customer Retention**          | Customer churn Analysis.             | SQL,Power BI, Excel        | [View Repo](#) | 
+| **Call Center Trends**          | Call Center Trends.             | SQL,Power BI, Excel        | [View Repo](#) | 
 
 ### 🤖 **Machine Learning & AI**
 | Project Name        | Description                                                | Technologies              | Repo Link |  
