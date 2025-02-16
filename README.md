@@ -101,9 +101,11 @@
 
 ---
 
-## 💬 Random Dev Quote  
-> "Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function."  
+## 🎓 Education
 
+☑️**MIT** - B.Sc. (Physics, Chemistry, Mathematics) <br>
+☑️ **Graphic Era Hill University** - M.Sc. (Data Science and Statistics)
+ 
 ---
 
 ## 🫂 Support Me  
