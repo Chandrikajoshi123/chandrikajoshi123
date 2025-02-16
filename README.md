@@ -118,16 +118,15 @@
 |---------------------|------------------------------------------------------------|---------------------------|-----------|  
 | **Anizen**          | Anime app for hackathon using Part Rock & AWS.             | React, AWS, Python        | [View Repo](#) |  
 | **Alzheimer’s App** | Prediction model with Streamlit.                           | Python, Streamlit         | [View Repo](#) |  
-| **Porsche Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
+| **Porsche Data Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
+|**Mercedes-Benz Price Prediction**|Random forest|python, Jupyter lab|[View Repo](#)|
 
 
 ### 🔥 **Generative AI & LLM**
-| Project Name        | Description                                                | Technologies              | Repo Link |  
-|---------------------|------------------------------------------------------------|---------------------------|-----------|  
-| **Anizen**          | Anime app for hackathon using Part Rock & AWS.             | React, AWS, Python        | [View Repo](#) |  
-| **Alzheimer’s App** | Prediction model with Streamlit.                           | Python, Streamlit         | [View Repo](#) |  
-| **Porsche Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
-
+| Project Name             | Repo Link |  
+|---------------------|-----------|  
+| **Custom AI Copilot**              | [View Repo](#) |  
+| **Fine-tuning LLaMA & GPTp**      | [View Repo](#) |  
 
 ## 🫂 Support Me  
 If you like my work, consider buying me a coffee:  
