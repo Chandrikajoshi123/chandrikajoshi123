@@ -129,17 +129,8 @@ You can find my CV below:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrikajoshi123&hide_border=true&area=true&theme=gruvbox&radius=20" style="width: 90%;" alt="activity-graph graph" />
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/archielicious/archielicious/output/snake.svg"
-  alt="Snake animation" style="width: 100%;" />
-</div>
 
 
-
----
-![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
-
----
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -147,13 +138,17 @@ You can find my CV below:
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Chandrikajoshi123/chandrikajoshi123/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Chandrikajoshi123/chandrikajoshi123/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
+
 
 
 <p align="center">✨ Thanks for stopping by! Keep building and learning. 🚀</p>
