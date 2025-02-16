@@ -155,9 +155,6 @@ You can find my CV below:
 
 ![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
 
-📂 Repository Showcase
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandrikajoshi123&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrikajoshi123&layout=compact&theme=gruvbox)
 
 
 
