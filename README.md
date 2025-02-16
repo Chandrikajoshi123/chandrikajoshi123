@@ -121,7 +121,7 @@ You can find my CV below:
 |[<img align="center" src="images/cv.png"  width="100" alt="English CV"/>]()| [<img align="center" src="images/cv.png"  width="100" alt="Greek CV"/>]()|
 
 
-![Chandrika's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandrikajoshi123&theme=github_dark)
+![Chandrika's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandrikajoshi123&theme=radical)
 
 
 ### 🌟 Let's Connect!  
