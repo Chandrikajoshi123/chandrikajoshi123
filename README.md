@@ -102,12 +102,28 @@
 
 
 ## 🔥 Featured Projects  
+
+###  **Power BI Projects**
 | Project Name        | Description                                                | Technologies              | Repo Link |  
 |---------------------|------------------------------------------------------------|---------------------------|-----------|  
 | **Anizen**          | Anime app for hackathon using Part Rock & AWS.             | React, AWS, Python        | [View Repo](#) |  
 | **Alzheimer’s App** | Prediction model with Streamlit.                           | Python, Streamlit         | [View Repo](#) |  
 | **Porsche Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
 
+### 🤖 **Machine Learning & AI**
+| Project Name        | Description                                                | Technologies              | Repo Link |  
+|---------------------|------------------------------------------------------------|---------------------------|-----------|  
+| **Anizen**          | Anime app for hackathon using Part Rock & AWS.             | React, AWS, Python        | [View Repo](#) |  
+| **Alzheimer’s App** | Prediction model with Streamlit.                           | Python, Streamlit         | [View Repo](#) |  
+| **Porsche Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
+
+
+### 🔥 **Generative AI & LLM**
+| Project Name        | Description                                                | Technologies              | Repo Link |  
+|---------------------|------------------------------------------------------------|---------------------------|-----------|  
+| **Anizen**          | Anime app for hackathon using Part Rock & AWS.             | React, AWS, Python        | [View Repo](#) |  
+| **Alzheimer’s App** | Prediction model with Streamlit.                           | Python, Streamlit         | [View Repo](#) |  
+| **Porsche Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
 
 
 ## 🫂 Support Me  
@@ -154,6 +170,20 @@ You can find my CV below:
 
 
 ![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
+
+
+### 🔹 **Power BI Projects**
+- 📊 [Project 1: Sales Dashboard](https://github.com/Chandrikajoshi123/Sales-Dashboard)
+- 📈 [Project 2: Financial Analysis](https://github.com/Chandrikajoshi123/Financial-Analysis)
+
+### 🤖 **Machine Learning & AI**
+- 🏎 [Porsche Data Analysis](https://github.com/Chandrikajoshi123/Porsche-Data)
+- 🤖 [Mercedes-Benz Price Prediction](https://github.com/Chandrikajoshi123/Mercedes-Benz-Prediction)
+- 🧠 [Alzheimer’s Disease Detection](https://github.com/Chandrikajoshi123/Alzheimers-Detection)
+
+### 🔥 **Generative AI & LLM**
+- 🤖 [Custom AI Copilot](https://github.com/Chandrikajoshi123/Custom-Copilot)
+- 📚 [Fine-tuning LLaMA & GPT](https://github.com/Chandrikajoshi123/Fine-Tune-LLM)
 
 
 
