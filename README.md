@@ -36,7 +36,7 @@
 -  🇮🇳Hindi   
 
 
----
+
 
 ## 🛠️ Skills and Tools  
 
@@ -56,12 +56,18 @@
 </p>
 
 
----
+
 ## 🏆 Achievements   
 📜 **PwC Switzerland – Power BI Job Simulation** <br>
 📜 **BCG - Data Science Job Simulation**
 
----
+
+## 🎓 Education
+
+☑️**MIT** - B.Sc. (Physics, Chemistry, Mathematics) <br>
+☑️ **Graphic Era Hill University** - M.Sc. (Data Science and Statistics)
+
+ 
 
 ## 📈 GitHub Stats  
 
@@ -90,7 +96,7 @@
 
 
 
----
+
 
 ## 🔥 Featured Projects  
 | Project Name        | Description                                                | Technologies              | Repo Link |  
@@ -99,21 +105,14 @@
 | **Alzheimer’s App** | Prediction model with Streamlit.                           | Python, Streamlit         | [View Repo](#) |  
 | **Porsche Analysis**| RStudio analysis of Porsche sports cars data.              | R, Visualization Tools    | [View Repo](#) |  
 
----
 
-## 🎓 Education
-
-☑️**MIT** - B.Sc. (Physics, Chemistry, Mathematics) <br>
-☑️ **Graphic Era Hill University** - M.Sc. (Data Science and Statistics)
- 
----
 
 ## 🫂 Support Me  
 If you like my work, consider buying me a coffee:  
 # [![𝙱𝚞𝚢 𝚖𝚎 𝚊 𝙲𝚘𝚏𝚏𝚎𝚎](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/chandrikajoshi123)
  
 
----
+
 ## CVs
 You can find my CV below:
 
@@ -121,7 +120,7 @@ You can find my CV below:
 |:---:|:---:|
 |[<img align="center" src="images/cv.png"  width="100" alt="English CV"/>]()| [<img align="center" src="images/cv.png"  width="100" alt="Greek CV"/>]()|
 
----
+
 
 ### 🌟 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/chandrika-j-0b1a98238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibe-link)  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://your-portfolio-link.com)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cj.18_m/) [![DiscordLogo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/chandrika0292)
@@ -148,7 +147,7 @@ You can find my CV below:
   />
 </picture>
 
----
+
 ![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
 
 
