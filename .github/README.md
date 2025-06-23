@@ -67,7 +67,12 @@
 ☑️**MIT** - B.Sc. (Physics, Chemistry, Mathematics) <br>
 ☑️ **Graphic Era Hill University** - M.Sc. (Data Science and Statistics)
 
- 
+ ## 📊 GitHub Profile Metrics
+
+<p align="center">
+  <img src="metrics.svg" alt="GitHub Metrics Dashboard">
+</p>
+
 
 ## 📈 GitHub Stats  
 
