@@ -76,6 +76,10 @@
   <img src="https://komarev.com/ghpvc/?username=Chandrikajoshi123&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandrikajoshi123&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandrikajoshi123&theme=tokyonight" alt="Repos Per Language"/>
+</p>
 
 <table>
   <tr>
@@ -143,5 +147,31 @@ If you like my work, consider buying me a coffee:
 ![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
 
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandrikajoshi123&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandrikajoshi123&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandrikajoshi123&theme=tokyonight" alt="Repos Per Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chandrikajoshi123&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrikajoshi123&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandrikajoshi123&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrikajoshi123&hide_border=true&area=true&theme=tokyo-night&radius=10" alt="GitHub Activity Graph"/>
+</p>
 
 <p align="center">✨ Thanks for stopping by! Keep building and learning. 🚀</p>
