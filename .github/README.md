@@ -134,23 +134,8 @@ If you like my work, consider buying me a coffee:
 
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Chandrikajoshi123/chandrikajoshi123/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Chandrikajoshi123/chandrikajoshi123/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
-![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
 
 
 
