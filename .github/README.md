@@ -7,8 +7,13 @@
 #  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **🅲🅷🅰🅽🅳🆁🅸🅺🅰 🅹🅾🆂🅷🅸**
 
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Namaste 🙏 I'm Chandrika Joshi**
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
  <br>
+ 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Hi+👋,+I'm+Chandrika+Joshi;Data+Scientist+%7C+AI+Engineer;ML+%7C+NLP+%7C+Generative+AI" alt="Typing Animation" />
+</div>
+
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **🧿🌸 Data Scientist | Freelancer | Machine Learning Enthusiast | Blogger 🌸🧿**
 
@@ -140,54 +145,3 @@ If you like my work, consider buying me a coffee:
 <p align="center">✨ Thanks for stopping by! Keep building and learning. 🚀</p>
 
 
-
-# 👋 Hi, I'm Chandrika Joshi 
-**Data Scientist | AI/ML Engineer | Open-Source Contributor**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium)](https://medium.com/@yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail)](mailto:Jchandrika67@gmail.com)
-
----
-
-## 🚀 About Me
-- 🔭 **Currently**: Pursuing MSc in Data Science & Statistics at Graphic Era Hill University.  
-- 🌱 **Learning**: Agentic AI (LangGraph), MLOps, and Cloud ML.  
-- 💡 **Interests**: LLMs, NLP, and solving real-world problems with data.  
-- ✍️ **Blogger**: I write about AI, Python, and career growth.  
-
----
-
-## 🛠️ Skills  
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-
-**Domains**  
-Machine Learning | NLP | Generative AI | Data Visualization  
-
----
-
-## 🔥 Top Projects  
-| Project | Description | Tech Stack |  
-|---------|-------------|------------|  
-| **[LLM Resume Reviewer](https://github.com/yourrepo)** | Streamlit app that analyzes resumes using OpenAI GPT. | Python, OpenAI API, Streamlit |  
-| **[Credit Card Fraud Detection](https://github.com/yourrepo)** | Isolation Forest model with 96% ROC-AUC. | Scikit-learn, Pandas, Jupyter |  
-| **[Sentiment Analysis API](https://github.com/yourrepo)** | FastAPI model for Amazon review sentiment. | FastAPI, PyTorch, Docker |  
-
----
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrikajoshi123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrikajoshi123&layout=compact)  
-
----
-
-## 📫 Let's Connect!  
-- **Email**: Jchandrika67@gmail.com  
-- **LinkedIn**: [Chandrika Joshi](https://linkedin.com/in/yourprofile)  
-- **Portfolio**: [Coming Soon!]  
-
-> *"Turning data into decisions, one model at a time."* 💡  
