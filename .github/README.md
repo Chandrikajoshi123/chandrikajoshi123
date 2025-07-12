@@ -7,9 +7,6 @@
 #  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **🅲🅷🅰🅽🅳🆁🅸🅺🅰 🅹🅾🆂🅷🅸**
 
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Namaste 🙏 I'm Chandrika Joshi**
- <br>
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **🧿🌸 Data Scientist | Freelancer | Machine Learning Enthusiast | Blogger 🌸🧿**
 
 
@@ -67,32 +64,38 @@
 ☑️**MIT** - B.Sc. (Physics, Chemistry, Mathematics) <br>
 ☑️ **Graphic Era Hill University** - M.Sc. (Data Science and Statistics)
 
- ### 🧑‍💻 Coding Activity
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
+ 
 
 ## 📈 GitHub Stats  
 
 <!-- GitHub Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chandrikajoshi123&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
+
+
 
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Chandrikajoshi123&show_icons=true&theme=radical" alt="GitHub Stats" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Chandrikajoshi123&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrikajoshi123&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrikajoshi123&theme=tokyonight" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chandrikajoshi123&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrikajoshi123&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandrikajoshi123&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandrikajoshi123&theme=tokyonight" alt="Repos Per Language"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chandrikajoshi123&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+</p>
+
 
 
 <!-- GitHub Trophies -->
@@ -122,30 +125,15 @@ If you like my work, consider buying me a coffee:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/chandrika-j-0b1a98238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibe-link)  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://your-portfolio-link.com)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cj.18_m/) [![DiscordLogo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/chandrika0292)
 ---
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrikajoshi123&hide_border=true&area=true&theme=gruvbox&radius=20" style="width: 90%;" alt="activity-graph graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrikajoshi123&hide_border=true&area=true&theme=tokyo-night&radius=10" alt="GitHub Activity Graph"/>
+</p>
 
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Chandrikajoshi123/chandrikajoshi123/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Chandrikajoshi123/chandrikajoshi123/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
-![GitHub followers](https://img.shields.io/github/followers/chandrikajoshi123?style=social)
 
 
 
 <p align="center">✨ Thanks for stopping by! Keep building and learning. 🚀</p>
+
+
