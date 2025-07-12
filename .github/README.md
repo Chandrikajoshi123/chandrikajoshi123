@@ -138,15 +138,16 @@ If you like my work, consider buying me a coffee:
 
 <p align="center">✨ Thanks for stopping by! Keep building and learning. 🚀</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🛠️ Tech Stack
+## 🛠️ Skills and Tools  
 
-<table border="1" cellspacing="0" cellpadding="8">
+<table border="2" cellspacing="0" cellpadding="8">
     <!-- Programming Languages -->
     <tr>
         <th>Main Category</th>
         <th>Subcategory</th>
-        <th colspan="5">Technologies / Tools</th>
+        <th colspan="4">Technologies / Tools</th>
     </tr>
     <tr>
         <td rowspan="1"><b>Programming Languages</b></td>
@@ -170,7 +171,7 @@ If you like my work, consider buying me a coffee:
     <tr>
         <td rowspan="2"><b>Databases</b></td>
        <td><img src="https://skillicons.dev/icons?i=mysql"><p>MySQL</p></td>
-        <td><img src="https://img.shields.io/badge/Oracle-F80000??i=postgresql"><p>Oracle</p></td>
+        <td><img src="https://img.icons8.com/color/24/000000/oracle-logo.png?"><p>Oracle</p></td>
     </tr>
     <tr>
         <td>Non-Relational Databases</td>
@@ -217,18 +218,18 @@ If you like my work, consider buying me a coffee:
         <td></td> -->
     </tr>
     <!-- DevOps / MLOps -->
-    <!-- <tr>
+    <tr>
         <td><b>DevOps / MLOps</b></td>
         <td></td>
         <td><img src="https://skillicons.dev/icons?i=docker"><p>Docker</p></td>
         <td>MLflow</td>
-    </tr> -->
+    </tr> 
     <!-- Deployment -->
     <tr>
         <td><b>Cloud Platforms</b></td>
         <td></td>
         <td><img src="https://skillicons.dev/icons?i=gcp"><p>Google Cloud</p></td>
-        <td><img src="https://img.shields.io/badge/AWS-232F3E?"><p>AWS</p></td>
+        <td><img src="https://img.icons8.com/color/24/000000/amazon-web-services.png?"><p>AWS</p></td>
     </tr>
     <!-- Version Control -->
     <tr>
@@ -243,6 +244,15 @@ If you like my work, consider buying me a coffee:
         <td></td>
         <td><img src="https://skillicons.dev/icons?i=postman"><p>Postman</p></td>
     </tr>
+     <tr>
+        <td><b>Data Tools</b></td>
+        <td></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg?"width="50" height="50"><p>Powe BI</p></td>
+        <td><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"><p>Excel</p></td>
+        <td><img src="https://img.icons8.com/color/24/000000/tableau-software.png"><p>Tableau</p></td>
+    </tr>
+    
+    
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -252,82 +262,5 @@ If you like my work, consider buying me a coffee:
          
     
    
-
-
-### 🌐 Connect with Me
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/amulya-jain04/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"><br>
-        <b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kaggle.com/amulyajain@2004" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30"><br>
-        <b>Kaggle</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/amulyajain89/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30"><br>
-        <b>Instagram</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://hashnode.com/@alokik89" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="30"><br>
-        <b>Hashnode</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/channel/UCBhplGqDR5MGrGmqoV_RR2Q" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30"><br>
-        <b>YouTube</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codechef.com/users/alokik_engg_89" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30"><br>
-        <b>CodeChef</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/profile/jainamulyawin" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30"><br>
-        <b>HackerRank</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.leetcode.com/amulya_89-curious" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"><br>
-        <b>LeetCode</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://auth.geeksforgeeks.org/user/user_6jg2kzes1gw" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30"><br>
-        <b>GFG</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.topcoder.com/members/amulya[2004]" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="30"><br>
-        <b>TopCoder</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004" alt="amulyajain2004" />
-        </td>
-    </tr>
-</table>
 
 
