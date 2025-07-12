@@ -12,10 +12,10 @@
 
 
 
-## About Me 👩‍💻  
-🎓 Pursuing my Master's in Data Science and Statistics.  
-🌟 Passionate about Data Science, AI, and solving real-world problems.  
+## **About Me** 👩‍💻  
 
+- **Open to roles** in `AI/ML`, `Data Science`, and `NLP`.
+- Currently exploring `Agentic AI workflows` with `LangGraph`.
 
 💡 **Currently working As:**  
  - A **Freelancer** on platforms like **Upwork** and **Fiverr**, delivering high-quality data analysis, visualization, and AI-driven solutions.  
