@@ -9,8 +9,10 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **🧿🌸 Data Scientist | Freelancer | Machine Learning Enthusiast | Blogger 🌸🧿**
 
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/chandrika-j-0b1a98238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibe-link)  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://your-portfolio-link.com)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cj.18_m/) [![DiscordLogo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/chandrika0292)
 
-
+---
 
 ## **About Me** 👩‍💻  
 
