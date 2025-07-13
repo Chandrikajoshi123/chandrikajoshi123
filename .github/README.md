@@ -193,7 +193,7 @@ If you like my work, consider buying me a coffee:
 
 
 
-![Chandrika's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandrikajoshi123&theme=radical)
+<!--![Chandrika's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandrikajoshi123&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrikajoshi123&hide_border=true&area=true&theme=tokyo-night&radius=10" alt="GitHub Activity Graph"/>
