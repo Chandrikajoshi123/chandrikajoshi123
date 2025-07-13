@@ -197,10 +197,9 @@ If you like my work, consider buying me a coffee:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrikajoshi123&hide_border=true&area=true&theme=tokyo-night&radius=10" alt="GitHub Activity Graph"/>
-</p>
+</p>-->
 
-         
-    
+### **WORK UNTIL YOU DON T HAVE TO INTRODUCE YOURSELF**
    
 
 
