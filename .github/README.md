@@ -189,7 +189,8 @@ Hey there! I'm Chandrika Joshi, a passionate Data Scientist, an unapologetic Mac
 
 ## ☕ Support My Work
 
-If you find my projects helpful or inspiring, consider showing your support — it helps more than you think!
+<!--If you find my projects helpful or inspiring, consider showing your support — it helps more than you think!-->
+I pour my heart into building open-source projects that solve real problems, If you’ve found value in my work, consider fueling my next cup of creativity -- it helps more than you think!✨
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/coffee4.gif" width="200px" alt="Coffee animation" />
