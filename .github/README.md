@@ -185,21 +185,6 @@ Hey there! I'm Chandrika Joshi, a passionate Data Scientist, an unapologetic Mac
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🫂 Support Me  
-If you like my work, consider buying me a coffee:  
-# [![𝙱𝚞𝚢 𝚖𝚎 𝚊 𝙲𝚘𝚏𝚏𝚎𝚎](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/chandrikajoshi123)
- 
-
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/coffee4.gif" width="200px" alt="Coffee Animation" />
-  <br><br>
-  <a href="coff.ee/chandrikajoshi123" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <br><br>
-  <i>Your support means a lot and keeps this journey alive. Thank you!</i>
-</div>
 
 
 ## ☕ Support My Work
