@@ -22,6 +22,13 @@
 **Once upon a time in a world full of chaotic data, lived a curious mind who saw patterns in the noise — not just any patterns, but solutions.
 Hey there! I'm Chandrika Joshi, a passionate Data Scientist, an unapologetic Machine Learning Enthusiast, and someone who believes that every problem whispers a clue — you just need the right model to decode it.**
 
+## From Curiosity to Code
+My journey began not with code, but with questions.<br>
+Why do people leave platforms?<br>
+Can a machine spot fake news before it spreads?<br>
+How can we make sense of millions of datapoints?<br>
+These questions didn't just lead me to answers — they led me to `Python`, `R`, `NLP`, and eventually to the vibrant world of `AI/ML`, where each algorithm I write is my way of solving a real-world puzzle.
+
 ## **About Me** 👩‍💻  
 
 - **Open to roles** in `AI/ML`, `Data Science`, and `NLP`.
