@@ -194,7 +194,7 @@ If you like my work, consider buying me a coffee:
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/coffee4.gif" width="200px" alt="Coffee Animation" />
   <br><br>
-  <a href="buymeacoffee.com/chandrikajoshi123" target="_blank">
+  <a href="coff.ee/chandrikajoshi123" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
   <br><br>
