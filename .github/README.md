@@ -222,5 +222,5 @@ I pour my heart into building open-source projects that solve real problems, If 
 <!---### **WORK UNTIL YOU DON T HAVE TO INTRODUCE YOURSELF**--->
    
 
-**✨🪞Whether you're a fellow coder, a curious learner, or someone who just loves data stories — you're welcome to reach out!✨**
+✨🪞Whether you're a fellow coder, a curious learner, or someone who just loves data stories — you're welcome to reach out!✨
 
