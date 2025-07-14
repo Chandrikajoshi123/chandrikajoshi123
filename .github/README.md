@@ -200,6 +200,22 @@ If you like my work, consider buying me a coffee:
   <br><br>
   <i>Your support means a lot and keeps this journey alive. Thank you!</i>
 </div>
+
+
+## ☕ Support My Work
+
+If you find my projects helpful or inspiring, consider showing your support — it helps more than you think!
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/coffee4.gif" width="200px" alt="Coffee animation" />
+  <br><br>
+  <a href="https://coff.ee/chandrikajoshi123" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <br><br>
+  <i>Every coffee counts. Thanks for being awesome! ☕✨</i>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--![Chandrika's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandrikajoshi123&theme=radical)
