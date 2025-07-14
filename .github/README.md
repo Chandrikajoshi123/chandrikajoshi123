@@ -150,12 +150,9 @@ Hey there! I'm Chandrika Joshi, a passionate Data Scientist, an unapologetic Mac
     
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- ## 📈 GitHub Stats  
-
-<!-- GitHub Profile Views -->
+<!--- ## 📈 GitHub Stats  
 <table>
   <tr>
     <td>
@@ -177,9 +174,7 @@ Hey there! I'm Chandrika Joshi, a passionate Data Scientist, an unapologetic Mac
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chandrikajoshi123&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
-</p>
-
-
+</p> --->
 
 
 
