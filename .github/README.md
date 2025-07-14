@@ -19,6 +19,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+**Once upon a time in a world full of chaotic data, lived a curious mind who saw patterns in the noise — not just any patterns, but solutions.
+Hey there! I'm Chandrika Joshi, a passionate Data Scientist, an unapologetic Machine Learning Enthusiast, and someone who believes that every problem whispers a clue — you just need the right model to decode it.**
 
 ## **About Me** 👩‍💻  
 
