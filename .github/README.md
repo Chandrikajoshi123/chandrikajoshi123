@@ -7,7 +7,8 @@
 #  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **🅲🅷🅰🅽🅳🆁🅸🅺🅰 🅹🅾🆂🅷🅸**
 
 
-<img width="939" height="236" alt="image" src="https://github.com/user-attachments/assets/e5cf47e6-924d-4c92-aa4c-61ee1d622ce4" />
+![image -fotor-enhance-20250714214710](https://github.com/user-attachments/assets/e88549ea-27ee-4320-b93d-06ed6ba40076)
+
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **🧿🌸 Data Scientist | Freelancer | Machine Learning Enthusiast | Blogger 🌸🧿**
